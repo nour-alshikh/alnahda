@@ -12,7 +12,7 @@ import mail from '../images/mail.svg'
 const Footer = () => {
     return (
         <section className='pt-16 pb-24 bg-[#322F8D]'>
-            <div className='w-[80%] m-auto  grid grid-cols-4 gap-28'>
+            <div className='w-[80%] m-auto  grid grid-cols-4 md:gap-28'>
                 <div className='col-span-4 md:col-span-2 lg:col-span-1 order-4 md:order-3 lg:order-1'>
                     <h4 className='relative mb-14 text-white font-bold text-[35px] text-right border-b border-[#D9D9D954] pb-4 before:w-[20%] before:bg-[#FAAC40] before:h-[0.5px] before:absolute before:bottom-[-1px] before:right-0'>
                         ساعات العمل

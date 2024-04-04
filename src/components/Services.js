@@ -11,7 +11,7 @@ const Services = () => {
                 تقدم الشركة خدمات مميزة لعملائها باحترافية واتقان وتسعي دائما بان يكون رضا العميل اولا
             </p>
             <div className="m-auto mt-16 mb-16 grid grid-cols-4 gap-4 w-[90%] ">
-                <div className="relative col-span-4 md:col-span-2 lg:col-span-1 mb-16 lg:mb-0">
+                <div className="relative col-span-4 md:col-span-2 lg:col-span-1 mb-20 lg:mb-0">
                     <div className=" rounded-3xl overflow-hidden">
                         <img src={Services1} alt="services" />
                     </div>
@@ -27,7 +27,7 @@ const Services = () => {
                         </p>
                     </div>
                 </div>
-                <div className="relative col-span-4 md:col-span-2 lg:col-span-1 mb-16 lg:mb-0">
+                <div className="relative col-span-4 md:col-span-2 lg:col-span-1 mb-20 lg:mb-0">
                     <div className=" rounded-3xl overflow-hidden">
                         <img src={Services2} alt="" />
                     </div>
@@ -45,7 +45,7 @@ const Services = () => {
                         </p>
                     </div>
                 </div>
-                <div className="relative col-span-4 md:col-span-2 lg:col-span-1 mb-16 lg:mb-0">
+                <div className="relative col-span-4 md:col-span-2 lg:col-span-1 mb-20 lg:mb-0">
                     <div className=" rounded-3xl overflow-hidden">
                         <img src={Services3} alt="" />
                     </div>

@@ -10,7 +10,7 @@ const Cover = () => {
                 <Navbar />
                 <div className="text-center">
 
-                    <h1 className="text-white text-[57px] font-extrabold mb-4 main__title" style={{
+                    <h1 className="text-white text-[40px] md:text-[57px] font-extrabold mb-4 main__title" style={{
                         textShadow: "2px 2px 13px #322F8D",
                         filter: "drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.8))"
                     }}>
